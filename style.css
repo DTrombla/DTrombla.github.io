@@ -1,6 +1,15 @@
-a{
-    all: unset;
-    color:#1656CB;
-    font-weight: bolder;
-    cursor: pointer;
+body{
+    width:1024px;
+    margin:auto;
+    text-align: center;
+}
+.dropdown-toggle{
+    background-color:#3369CB;
+    float: left;
+    /* margin-right:15px; */
+    /* margin-left:15px; */
+    width:25%;
+}
+.dropdown-toggle:hover{
+    background-color:#33A0CB;
 }
